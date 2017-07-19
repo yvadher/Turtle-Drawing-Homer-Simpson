@@ -5,6 +5,7 @@ Using simple loop and functions the drawing is created.
 
 This is beginer programming project which eable student to have fun while learning and practising the fundamental concepts of programming. 
 ### This is the drawing which is created using python turtle. 
+![desktop](https://user-images.githubusercontent.com/20786776/28349614-cd390fe2-6bf8-11e7-92c6-95429e3b2a52.PNG)
 
 ### This is the animation type drawing which is created using python turtle. 
 ***
